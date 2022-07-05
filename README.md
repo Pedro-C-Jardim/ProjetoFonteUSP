@@ -38,11 +38,11 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 - ### Capacitor:
     Queremos um ripple de 10%, para isso temos a fórmula:
     
-$ V_{ripple} = \frac{i}{2 f C} $
+    $ V_{ripple} = \frac{i}{2 f C} $
     
     Cálculo de i, a corrente total:
     
-$ i = i_{carga} + i_{RZener} + i_{pot} $
+    $ i = i_{carga} + i_{RZener} + i_{pot} $
 
     Calculamos cada termo individualemente:
     - $ i_{carga} = \frac{V_{zener} - V_{be}}{R_{carga}} = XXX $
